@@ -72,7 +72,4 @@ Este README resume el contenido del *Taller de Comunicaciones*, que aborda vigil
 - Maxim MAX485 Datasheet.  
 - Documentación oficial Raspberry Pi — UART.
 
----
 
-## Enlace del repositorio
-**GitHub:** https://github.com/JulianAlva24/TALLER_COMUNI.git
